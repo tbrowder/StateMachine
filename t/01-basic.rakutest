@@ -1,0 +1,6 @@
+use Test;
+use StateMachine;
+
+pass "replace me";
+
+done-testing;
